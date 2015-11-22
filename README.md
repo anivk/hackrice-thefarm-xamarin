@@ -20,9 +20,11 @@ About: In emerging markets, farmers need financing: at end of season to buy new 
 
 We aim to lower that risk. We know there are a series of data for individual crops that describe what an optimal output could look like - how we react to weather, how much we irrigate, how much fertilizer to apply → too much water? suboptimal plant health, increased spend on fertilizer, reduced overall income - reduced ability to repay a loan and increased likelihood that they will need insurance payout 
 
-We aim to achieve this with three key things:
-- Visualization, information and financial literacy
-- Farm size calculator, input calculator for each type of crop based on crop type selected and farm size
-information
-- Weather, and markets - because what matters, supply; because what matters for demand: markets 
-financial literacy:
+We aim to achieve this with three key things: visualization, information and financial literacy.
+- Visualization: farm size calculator, input calculator for each type of crop based on crop type selected and farm size
+- Information: weather, and markets - because what matters, supply; because what matters for demand: markets 
+- Financial literacy: cash flow projection: reminders about interest payments on loans, weekly calculation of savings need to be made to pay off the loan within the stated time period
+
+We have the ability to partner with local creditors and provide incentives for farmers using this app since it reduces creditors' risk. We also can partner with certain fertilizer and farm product corporations for very targeted advertisement/promotion strategies. Total funding raised to date is $3,000.
+
+Check it out, and fork it to help us make improvementes!
