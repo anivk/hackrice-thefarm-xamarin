@@ -1,0 +1,10 @@
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/thefarm.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.Xml.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/Mono.Android.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/Xamarin.Insights.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.Core.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/mscorlib.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.ServiceModel.Internals.dll
+/Users/anivk/Box Sync/workspace/thefarm/obj/Debug/assemblies/System.Net.Http.dll

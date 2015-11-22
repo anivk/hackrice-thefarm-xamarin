@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thefarm", "thefarm\thefarm.csproj", "{B6FF9248-7A1B-4BD5-961B-E71F3F4CE27F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thefarm", "thefarm.csproj", "{9AD32CC8-850C-4C1D-A138-04BD3441A068}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6FF9248-7A1B-4BD5-961B-E71F3F4CE27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6FF9248-7A1B-4BD5-961B-E71F3F4CE27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6FF9248-7A1B-4BD5-961B-E71F3F4CE27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6FF9248-7A1B-4BD5-961B-E71F3F4CE27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD32CC8-850C-4C1D-A138-04BD3441A068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD32CC8-850C-4C1D-A138-04BD3441A068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD32CC8-850C-4C1D-A138-04BD3441A068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD32CC8-850C-4C1D-A138-04BD3441A068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
