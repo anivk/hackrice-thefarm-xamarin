@@ -1099,10 +1099,11 @@ containing a value of this type.
         public static int icon=0x7f0a002a;
         public static int ifRoom=0x7f0a0011;
         public static int image=0x7f0a0027;
+        public static int linearLayout1=0x7f0a003c;
         public static int listMode=0x7f0a0006;
         public static int list_item=0x7f0a0029;
         public static int middle=0x7f0a0018;
-        public static int myButton=0x7f0a003c;
+        public static int myButton=0x7f0a003e;
         public static int never=0x7f0a0012;
         public static int none=0x7f0a0019;
         public static int normal=0x7f0a0007;
@@ -1126,6 +1127,7 @@ containing a value of this type.
         public static int split_action_bar=0x7f0a001e;
         public static int submit_area=0x7f0a0039;
         public static int tabMode=0x7f0a0008;
+        public static int textView1=0x7f0a003d;
         public static int title=0x7f0a002b;
         public static int top_action_bar=0x7f0a0020;
         public static int up=0x7f0a0021;

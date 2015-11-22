@@ -1086,10 +1086,13 @@ containing a value of this type.
         public static final int beginning=0x7f0a0016;
         public static final int checkbox=0x7f0a002d;
         public static final int collapseActionView=0x7f0a0010;
+        public static final int datePicker1=0x7f0a0046;
         public static final int default_activity_button=0x7f0a0028;
         public static final int dialog=0x7f0a0014;
         public static final int disableHome=0x7f0a0009;
         public static final int dropdown=0x7f0a0015;
+        public static final int editText2=0x7f0a0044;
+        public static final int editText3=0x7f0a0040;
         public static final int edit_query=0x7f0a0030;
         public static final int end=0x7f0a0017;
         public static final int expand_activities_button=0x7f0a0026;
@@ -1099,10 +1102,11 @@ containing a value of this type.
         public static final int icon=0x7f0a002a;
         public static final int ifRoom=0x7f0a0011;
         public static final int image=0x7f0a0027;
+        public static final int linearLayout1=0x7f0a003c;
         public static final int listMode=0x7f0a0006;
         public static final int list_item=0x7f0a0029;
         public static final int middle=0x7f0a0018;
-        public static final int myButton=0x7f0a003c;
+        public static final int myButton=0x7f0a003e;
         public static final int never=0x7f0a0012;
         public static final int none=0x7f0a0019;
         public static final int normal=0x7f0a0007;
@@ -1123,9 +1127,15 @@ containing a value of this type.
         public static final int showCustom=0x7f0a000b;
         public static final int showHome=0x7f0a000c;
         public static final int showTitle=0x7f0a000d;
+        public static final int spinner1=0x7f0a0042;
         public static final int split_action_bar=0x7f0a001e;
         public static final int submit_area=0x7f0a0039;
         public static final int tabMode=0x7f0a0008;
+        public static final int textView3=0x7f0a003d;
+        public static final int textView4=0x7f0a0041;
+        public static final int textView5=0x7f0a003f;
+        public static final int textView6=0x7f0a0043;
+        public static final int textView7=0x7f0a0045;
         public static final int title=0x7f0a002b;
         public static final int top_action_bar=0x7f0a0020;
         public static final int up=0x7f0a0021;
@@ -1231,6 +1241,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0b000b;
         public static final int app_name=0x7f0b000e;
         public static final int hello=0x7f0b000d;
+        public static final int welcomeToTheFarm=0x7f0b000f;
     }
     public static final class style {
         /**  Mimic text appearance in select_dialog_item.xml 

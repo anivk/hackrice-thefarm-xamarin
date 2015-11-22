@@ -859,6 +859,9 @@ namespace thefarm
 			// aapt resource value: 0x7f0a0010
 			public const int collapseActionView = 2131361808;
 			
+			// aapt resource value: 0x7f0a0046
+			public const int datePicker1 = 2131361862;
+			
 			// aapt resource value: 0x7f0a0028
 			public const int default_activity_button = 2131361832;
 			
@@ -870,6 +873,12 @@ namespace thefarm
 			
 			// aapt resource value: 0x7f0a0015
 			public const int dropdown = 2131361813;
+			
+			// aapt resource value: 0x7f0a0044
+			public const int editText2 = 2131361860;
+			
+			// aapt resource value: 0x7f0a0040
+			public const int editText3 = 2131361856;
 			
 			// aapt resource value: 0x7f0a0030
 			public const int edit_query = 2131361840;
@@ -898,6 +907,9 @@ namespace thefarm
 			// aapt resource value: 0x7f0a0027
 			public const int image = 2131361831;
 			
+			// aapt resource value: 0x7f0a003c
+			public const int linearLayout1 = 2131361852;
+			
 			// aapt resource value: 0x7f0a0006
 			public const int listMode = 2131361798;
 			
@@ -907,8 +919,8 @@ namespace thefarm
 			// aapt resource value: 0x7f0a0018
 			public const int middle = 2131361816;
 			
-			// aapt resource value: 0x7f0a003c
-			public const int myButton = 2131361852;
+			// aapt resource value: 0x7f0a003e
+			public const int myButton = 2131361854;
 			
 			// aapt resource value: 0x7f0a0012
 			public const int never = 2131361810;
@@ -970,6 +982,9 @@ namespace thefarm
 			// aapt resource value: 0x7f0a000d
 			public const int showTitle = 2131361805;
 			
+			// aapt resource value: 0x7f0a0042
+			public const int spinner1 = 2131361858;
+			
 			// aapt resource value: 0x7f0a001e
 			public const int split_action_bar = 2131361822;
 			
@@ -978,6 +993,21 @@ namespace thefarm
 			
 			// aapt resource value: 0x7f0a0008
 			public const int tabMode = 2131361800;
+			
+			// aapt resource value: 0x7f0a003d
+			public const int textView3 = 2131361853;
+			
+			// aapt resource value: 0x7f0a0041
+			public const int textView4 = 2131361857;
+			
+			// aapt resource value: 0x7f0a003f
+			public const int textView5 = 2131361855;
+			
+			// aapt resource value: 0x7f0a0043
+			public const int textView6 = 2131361859;
+			
+			// aapt resource value: 0x7f0a0045
+			public const int textView7 = 2131361861;
 			
 			// aapt resource value: 0x7f0a002b
 			public const int title = 2131361835;
@@ -1174,6 +1204,9 @@ namespace thefarm
 			
 			// aapt resource value: 0x7f0b000d
 			public const int hello = 2131427341;
+			
+			// aapt resource value: 0x7f0b000f
+			public const int welcomeToTheFarm = 2131427343;
 			
 			static String()
 			{
