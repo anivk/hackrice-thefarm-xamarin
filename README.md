@@ -1,4 +1,4 @@
-# thefarm
+# The Farm (Farm 2.0)
 Objective: to help farmers management crops minimize costs by calculating different types of input (fertilizer, water, seeds, etc.) according to the size of their lands
 
 What we want to build: Farm 2.0
