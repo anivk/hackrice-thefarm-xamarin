@@ -27,4 +27,4 @@ We aim to achieve this with three key things: visualization, information and fin
 
 We have the ability to partner with local creditors and provide incentives for farmers using this app since it reduces creditors' risk. We also can partner with certain fertilizer and farm product corporations for very targeted advertisement/promotion strategies. Total funding raised to date is $3,000.
 
-Check it out, and fork it to help us make improvementes!
+Check it out, and fork it to help us make improvements!
